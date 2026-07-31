@@ -66,3 +66,13 @@ footer{
     padding:20px;
     margin-top:40px;
 }
+section a{
+    color:#003366;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+section a:hover{
+    color:#0055a5;
+    text-decoration:underline;
+}
