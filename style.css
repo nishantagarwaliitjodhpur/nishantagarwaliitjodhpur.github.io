@@ -58,3 +58,10 @@ header p{
     font-size:18px;
     color:#d9e8ff;
 }
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:40px;
+}
